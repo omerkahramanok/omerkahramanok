@@ -2,8 +2,9 @@
 - 👀 Javasicript Frontend Reack Native ile ilgileniyorum
 - 🌱 Şuan da temel bilgiler öğreniyorum
 - 💞 İşbirliği yapmak istiyorum
-- 📫[<img align="left" alt="linkedin | LinkedIn" width="24px" src=https://github.com/simple-icons/simple-icons/blob/develop/iconslinkedin.svg" />][linkedin]
+- 📫### 📩 Connect with me:
 
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 <!---
 omerkahramanok/omerkahramanok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
