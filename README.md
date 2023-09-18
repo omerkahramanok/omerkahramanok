@@ -1,8 +1,9 @@
 - 👋 Merhaba , Ben Ömer. Türkiyeden
-- 👀 Javasiceipt Frontend Reack Native ile ilgileniyorum
+- 👀 Javasicript Frontend Reack Native ile ilgileniyorum
 - 🌱 Şuan da temel bilgiler öğreniyorum
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞 İşbirliği yapmak istiyorum
+- 📫[<img align="left" alt="linkedin | LinkedIn" width="24px" src=https://github.com/simple-icons/simple-icons/blob/develop/iconslinkedin.svg" />][linkedin]
+
 
 <!---
 omerkahramanok/omerkahramanok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
